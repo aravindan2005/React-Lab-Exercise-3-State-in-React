@@ -31,4 +31,4 @@ export default App;
 <img width="1125" height="437" alt="image" src="https://github.com/user-attachments/assets/ddde35b7-623b-4be5-9284-dfd2c99bff5d" />
 
 ## RESULT
-###
+### The React application was successfully created using Props to pass employee information from the parent component to the child component. Three employee details were displayed successfully using Props and Props Destructuring.
